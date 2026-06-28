@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Airline Check-In Agent Passport Demo
 
 Demo implementation of Agent Passport as the identity, policy, delegation, approval, secrets, and audit control plane for enterprise AI agents during an airline check-in outage.
@@ -74,3 +75,20 @@ spiffe://airline.com/prod/agent/firewall-agent
 Failure demos cover unregistered/no-passport rollback, expired passport rejection, and prompt-injection risk escalation.
 
 The UI includes a presenter mode for the 5-minute judge walkthrough plus a central Agent Passport trust-layer lane showing workload verification, passport issuance, delegation, policy, approval, scoped credential release, and audit proof.
+=======
+* One line 
+
+
+
+Agent Passport as a trust, policy, approval, secrets, and audit control plane for enterprise AI agents during an airline check-in outage.
+
+* Three line 
+
+
+
+Agent Passport is a React + TypeScript demo for governing enterprise AI agents during an airline check-in outage.
+
+It shows workload identity, passport issuance, delegation, policy checks, approvals, scoped credential release, and audit logging.
+
+The project includes a Vite UI, in-memory TypeScript simulation logic, and an optional lightweight Node API adapter.
+>>>>>>> 979f35a996421a9aac6b9ce134e565621d12070c
