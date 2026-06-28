@@ -1,0 +1,124 @@
+{"kind":"deck","id":"pr/n7lwpn","name":"Deck"}
+{"kind":"layout","layoutId":"6c795c66-4382-40c4-80fa-831f8253edfa","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"ec0417cd-a33d-4085-9fc3-d606bdaa6db5","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/mhwffr","slide":1,"title":"Agent Passport","textShapes":6}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":1,"text":"Agent Passport","textPreview":"Agent Passport","textChars":14,"textLines":1,"bbox":[70,116,880,76]}
+{"kind":"textbox","id":"sh/lszqtcj6","slide":1,"text":"Runtime identity, delegation verification, policy enforcement, scoped credentials, and audit for enterprise AI agents.","textPreview":"Runtime identity, delegation verification, policy enforcement, scoped credentials, and audit for enterprise AI agents.","textChars":118,"textLines":1,"bbox":[72,206,760,118]}
+{"kind":"shape","id":"sh/s72x4nap","slide":1,"bbox":[835,96,330,420]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":1,"text":"Holiday check-in outage","textPreview":"Holiday check-in outage","textChars":23,"textLines":1,"bbox":[870,132,260,34]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":1,"text":"18,400 passengers affected\n312 departures exposed\n$7.8M disruption risk\nRecovered in 12 minutes","textPreview":"18,400 passengers affected | 312 departures exposed | $7.8M disruption risk | Recovered in 12 minutes","textChars":95,"textLines":4,"bbox":[870,190,245,224]}
+{"kind":"shape","id":"sh/h4byhgn2","slide":1,"bbox":[870,456,190,4]}
+{"kind":"textbox","id":"sh/sji5snel","slide":1,"text":"Built as a runnable React + TypeScript demo with backend-like services and tests.","textPreview":"Built as a runnable React + TypeScript demo with backend-like services and tests.","textChars":81,"textLines":1,"bbox":[72,548,760,64]}
+{"kind":"textbox","id":"sh/za1gvy90","slide":1,"text":"Airline Check-In Outage Demo  |  1/6","textPreview":"Airline Check-In Outage Demo  |  1/6","textChars":36,"textLines":1,"bbox":[64,670,420,24]}
+{"kind":"notes","id":"nt/mhwffr","slide":1,"text":""}
+{"kind":"slide","id":"sl/vutisq","slide":2,"title":"AGENT PASSPORT","textShapes":11}
+{"kind":"textbox","id":"sh/sji5snel","slide":2,"text":"AGENT PASSPORT","textPreview":"AGENT PASSPORT","textChars":14,"textLines":1,"bbox":[64,46,320,28]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":2,"text":"Why this matters","textPreview":"Why this matters","textChars":16,"textLines":1,"bbox":[64,82,930,82]}
+{"kind":"shape","id":"sh/adsji5sn","slide":2,"bbox":[64,172,190,4]}
+{"kind":"shape","id":"sh/lszqtcj6","slide":2,"bbox":[64,210,520,150]}
+{"kind":"shape","id":"sh/s72x4nap","slide":2,"bbox":[88,234,88,4]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":2,"text":"Unknown agents","textPreview":"Unknown agents","textChars":14,"textLines":1,"bbox":[88,252,420,32]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":2,"text":"Enterprises cannot accept production changes from anonymous or unregistered AI workloads.","textPreview":"Enterprises cannot accept production changes from anonymous or unregistered AI workloads.","textChars":89,"textLines":1,"bbox":[88,294,456,58]}
+{"kind":"shape","id":"sh/hoza1gvy","slide":2,"bbox":[644,210,520,150]}
+{"kind":"shape","id":"sh/s36hcrmh","slide":2,"bbox":[668,234,88,4]}
+{"kind":"textbox","id":"sh/q1orytsv","slide":2,"text":"Weak delegation","textPreview":"Weak delegation","textChars":15,"textLines":1,"bbox":[668,252,420,32]}
+{"kind":"textbox","id":"sh/fmlkjm1c","slide":2,"text":"A chain of agents must prove who delegated whom, for which incident, and with what authority.","textPreview":"A chain of agents must prove who delegated whom, for which incident, and with what authority.","textChars":93,"textLines":1,"bbox":[668,294,456,58]}
+{"kind":"shape","id":"sh/87ed8bat","slide":2,"bbox":[64,390,520,150]}
+{"kind":"shape","id":"sh/xs72x4na","slide":2,"bbox":[88,414,88,4]}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":2,"text":"High-risk tools","textPreview":"High-risk tools","textChars":15,"textLines":1,"bbox":[88,432,420,32]}
+{"kind":"textbox","id":"sh/je9cvixc","slide":2,"text":"Firewall rollback and secrets access require policy gates, human approval, and tight scope.","textPreview":"Firewall rollback and secrets access require policy gates, human approval, and tight scope.","textChars":91,"textLines":1,"bbox":[88,474,456,58]}
+{"kind":"shape","id":"sh/8z25kb6x","slide":2,"bbox":[644,390,520,150]}
+{"kind":"shape","id":"sh/1gvy90je","slide":2,"bbox":[668,414,88,4]}
+{"kind":"textbox","id":"sh/qpg3ex0n","slide":2,"text":"Audit pressure","textPreview":"Audit pressure","textChars":14,"textLines":1,"bbox":[668,432,420,32]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":2,"text":"Security reviewers need a complete timeline: identity, runtime, action, decision, reason, approval.","textPreview":"Security reviewers need a complete timeline: identity, runtime, action, decision, reason, approval.","textChars":99,"textLines":1,"bbox":[668,474,456,58]}
+{"kind":"textbox","id":"sh/re1w7mp0","slide":2,"text":"Airline Check-In Outage Demo  |  2/6","textPreview":"Airline Check-In Outage Demo  |  2/6","textChars":36,"textLines":1,"bbox":[64,670,420,24]}
+{"kind":"notes","id":"nt/vutisq","slide":2,"text":""}
+{"kind":"slide","id":"sl/onlbe9","slide":3,"title":"AGENT PASSPORT","textShapes":12}
+{"kind":"textbox","id":"sh/dsji5sne","slide":3,"text":"AGENT PASSPORT","textPreview":"AGENT PASSPORT","textChars":14,"textLines":1,"bbox":[64,46,320,28]}
+{"kind":"textbox","id":"sh/61032lsz","slide":3,"text":"Control plane architecture","textPreview":"Control plane architecture","textChars":26,"textLines":1,"bbox":[64,82,930,82]}
+{"kind":"shape","id":"sh/vmtwra5g","slide":3,"bbox":[64,172,190,4]}
+{"kind":"shape","id":"sh/oj2t83it","slide":3,"bbox":[58,280,236,180]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":3,"text":"Agents","textPreview":"Agents","textChars":6,"textLines":1,"bbox":[76,304,196,58]}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":3,"text":"Monitoring, ServiceNow, Cloud, Network, Identity, Firewall, Airport Ops","textPreview":"Monitoring, ServiceNow, Cloud, Network, Identity, Firewall, Airport Ops","textChars":71,"textLines":1,"bbox":[76,372,196,76]}
+{"kind":"shape","id":"sh/vy90je9c","slide":3,"bbox":[354,280,236,180]}
+{"kind":"textbox","id":"sh/onyd0z61","slide":3,"text":"Agent Passport","textPreview":"Agent Passport","textChars":14,"textLines":1,"bbox":[372,304,196,58]}
+{"kind":"textbox","id":"sh/d8v6psfi","slide":3,"text":"Verify workload, issue passport, enforce delegation and policy","textPreview":"Verify workload, issue passport, enforce delegation and policy","textChars":62,"textLines":1,"bbox":[372,372,196,76]}
+{"kind":"shape","id":"sh/twra5gbq","slide":3,"bbox":[650,280,236,180]}
+{"kind":"textbox","id":"sh/4byhgn29","slide":3,"text":"Tool Gateway","textPreview":"Tool Gateway","textChars":12,"textLines":1,"bbox":[668,304,196,58]}
+{"kind":"textbox","id":"sh/bq1oryts","slide":3,"text":"Evaluate tool calls, require approval, broker scoped credentials","textPreview":"Evaluate tool calls, require approval, broker scoped credentials","textChars":64,"textLines":1,"bbox":[668,372,196,76]}
+{"kind":"shape","id":"sh/m58z25kb","slide":3,"bbox":[946,280,236,180]}
+{"kind":"textbox","id":"sh/t83itgfm","slide":3,"text":"Enterprise Systems","textPreview":"Enterprise Systems","textChars":18,"textLines":1,"bbox":[964,304,196,58]}
+{"kind":"textbox","id":"sh/4nap4r65","slide":3,"text":"Identity logs, firewall policy, ServiceNow, airport operations","textPreview":"Identity logs, firewall policy, ServiceNow, airport operations","textChars":62,"textLines":1,"bbox":[964,372,196,76]}
+{"kind":"shape","id":"sh/b2hwfyxo","slide":3,"bbox":[304,364,48,4]}
+{"kind":"shape","id":"sh/mhk3q5o7","slide":3,"bbox":[349,356,18,18]}
+{"kind":"shape","id":"sh/tgfmlkjm","slide":3,"bbox":[600,364,48,4]}
+{"kind":"shape","id":"sh/4vmtwra5","slide":3,"bbox":[645,356,18,18]}
+{"kind":"shape","id":"sh/gr2p8nqx","slide":3,"bbox":[896,364,48,4]}
+{"kind":"shape","id":"sh/9cvixcze","slide":3,"bbox":[941,356,18,18]}
+{"kind":"textbox","id":"sh/ylc7u54z","slide":3,"text":"The passport is not just a token. It is the decision record that binds identity, runtime, delegation, incident, allowed tools, approval, and audit.","textPreview":"The passport is not just a token. It is the decision record that binds identity, runtime, delegation, incident, allowed tools, approval, ...","textChars":147,"textLines":1,"bbox":[90,518,1060,72]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":3,"text":"Airline Check-In Outage Demo  |  3/6","textPreview":"Airline Check-In Outage Demo  |  3/6","textChars":36,"textLines":1,"bbox":[64,670,420,24]}
+{"kind":"notes","id":"nt/onlbe9","slide":3,"text":""}
+{"kind":"slide","id":"sl/xbkgco","slide":4,"title":"AGENT PASSPORT","textShapes":21}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":4,"text":"AGENT PASSPORT","textPreview":"AGENT PASSPORT","textChars":14,"textLines":1,"bbox":[64,46,320,28]}
+{"kind":"textbox","id":"sh/vixczed8","slide":4,"text":"Demo workflow","textPreview":"Demo workflow","textChars":13,"textLines":1,"bbox":[64,82,930,82]}
+{"kind":"shape","id":"sh/2x4nap4r","slide":4,"bbox":[64,172,190,4]}
+{"kind":"shape","id":"sh/dcbulwva","slide":4,"bbox":[76,202,320,148]}
+{"kind":"textbox","id":"sh/kre1w7mp","slide":4,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[94,224,44,44]}
+{"kind":"textbox","id":"sh/val87ed8","slide":4,"text":"Outage detected","textPreview":"Outage detected","textChars":15,"textLines":1,"bbox":[150,226,214,30]}
+{"kind":"textbox","id":"sh/6psfil0r","slide":4,"text":"Timeout spike across kiosks, mobile check-in, and bag drop.","textPreview":"Timeout spike across kiosks, mobile check-in, and bag drop.","textChars":59,"textLines":1,"bbox":[150,266,218,66]}
+{"kind":"shape","id":"sh/d8bat47y","slide":4,"bbox":[458,202,320,148]}
+{"kind":"textbox","id":"sh/knih4byh","slide":4,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[476,224,44,44]}
+{"kind":"textbox","id":"sh/uxc3ylc7","slide":4,"text":"Passport issued","textPreview":"Passport issued","textChars":15,"textLines":1,"bbox":[532,226,214,30]}
+{"kind":"textbox","id":"sh/ji5snelo","slide":4,"text":"SPIFFE workload maps to registered agent identity.","textPreview":"SPIFFE workload maps to registered agent identity.","textChars":50,"textLines":1,"bbox":[532,266,218,66]}
+{"kind":"shape","id":"sh/c3ylc7u5","slide":4,"bbox":[840,202,320,148]}
+{"kind":"textbox","id":"sh/1kre1w7m","slide":4,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[858,224,44,44]}
+{"kind":"textbox","id":"sh/ulwval87","slide":4,"text":"Delegation visible","textPreview":"Delegation visible","textChars":18,"textLines":1,"bbox":[914,226,214,30]}
+{"kind":"textbox","id":"sh/j6tovaho","slide":4,"text":"ServiceNow invokes specialist agents inside incident scope.","textPreview":"ServiceNow invokes specialist agents inside incident scope.","textChars":59,"textLines":1,"bbox":[914,266,218,66]}
+{"kind":"shape","id":"sh/crmhk3q5","slide":4,"bbox":[76,388,320,148]}
+{"kind":"textbox","id":"sh/1cfa9w3m","slide":4,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[94,410,44,44]}
+{"kind":"textbox","id":"sh/qh0fepkz","slide":4,"text":"Risk gate blocks","textPreview":"Risk gate blocks","textChars":16,"textLines":1,"bbox":[150,412,214,30]}
+{"kind":"textbox","id":"sh/j2t83itg","slide":4,"text":"Firewall rollback requires human approval.","textPreview":"Firewall rollback requires human approval.","textChars":42,"textLines":1,"bbox":[150,452,218,66]}
+{"kind":"shape","id":"sh/bq1oryts","slide":4,"bbox":[458,388,320,148]}
+{"kind":"textbox","id":"sh/m58z25kb","slide":4,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[476,410,44,44]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":4,"text":"Scoped secret","textPreview":"Scoped secret","textChars":13,"textLines":1,"bbox":[532,412,214,30]}
+{"kind":"textbox","id":"sh/4byhgn29","slide":4,"text":"Temporary credential released only for approved target.","textPreview":"Temporary credential released only for approved target.","textChars":55,"textLines":1,"bbox":[532,452,218,66]}
+{"kind":"shape","id":"sh/b2hwfyxo","slide":4,"bbox":[840,388,320,148]}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":4,"text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[858,410,44,44]}
+{"kind":"textbox","id":"sh/t83itgfm","slide":4,"text":"Audit proof","textPreview":"Audit proof","textChars":11,"textLines":1,"bbox":[914,412,214,30]}
+{"kind":"textbox","id":"sh/4nap4r65","slide":4,"text":"Every decision and action appears in the timeline.","textPreview":"Every decision and action appears in the timeline.","textChars":50,"textLines":1,"bbox":[914,452,218,66]}
+{"kind":"textbox","id":"sh/bat47y1k","slide":4,"text":"Airline Check-In Outage Demo  |  4/6","textPreview":"Airline Check-In Outage Demo  |  4/6","textChars":36,"textLines":1,"bbox":[64,670,420,24]}
+{"kind":"notes","id":"nt/xbkgco","slide":4,"text":""}
+{"kind":"slide","id":"sl/7w5n8w","slide":5,"title":"AGENT PASSPORT","textShapes":8}
+{"kind":"textbox","id":"sh/2t83itgf","slide":5,"text":"AGENT PASSPORT","textPreview":"AGENT PASSPORT","textChars":14,"textLines":1,"bbox":[64,46,320,28]}
+{"kind":"textbox","id":"sh/9knih4by","slide":5,"text":"What we built","textPreview":"What we built","textChars":13,"textLines":1,"bbox":[64,82,930,82]}
+{"kind":"shape","id":"sh/kzupwb2h","slide":5,"bbox":[64,172,190,4]}
+{"kind":"shape","id":"sh/rqd4vmtw","slide":5,"bbox":[92,228,10,10]}
+{"kind":"textbox","id":"sh/25kb6xkf","slide":5,"text":"React dashboard with incident status, presenter mode, business-impact facts, and Agent Passport trust-layer lane.","textPreview":"React dashboard with incident status, presenter mode, business-impact facts, and Agent Passport trust-layer lane.","textChars":113,"textLines":1,"bbox":[116,220,980,54]}
+{"kind":"shape","id":"sh/9w3m94fu","slide":5,"bbox":[92,300,10,10]}
+{"kind":"textbox","id":"sh/kb6xkf6d","slide":5,"text":"Static registry for seven airline demo agents with SPIFFE-style runtime identities, owners, versions, tools, and delegation rules.","textPreview":"Static registry for seven airline demo agents with SPIFFE-style runtime identities, owners, versions, tools, and delegation rules.","textChars":130,"textLines":1,"bbox":[116,292,980,54]}
+{"kind":"shape","id":"sh/r2p8nqxs","slide":5,"bbox":[92,372,10,10]}
+{"kind":"textbox","id":"sh/2hwfyxob","slide":5,"text":"Backend-like TypeScript services for workload verification, passport issuance, policy evaluation, approval, audit, and scoped secret release.","textPreview":"Backend-like TypeScript services for workload verification, passport issuance, policy evaluation, approval, audit, and scoped secret rele...","textChars":141,"textLines":1,"bbox":[116,364,980,54]}
+{"kind":"shape","id":"sh/crmhk3q5","slide":5,"bbox":[92,444,10,10]}
+{"kind":"textbox","id":"sh/1cfa9w3m","slide":5,"text":"Failure demos for no passport, expired passport, forged token, invalid delegation, prompt injection, and tightly scoped credentials.","textPreview":"Failure demos for no passport, expired passport, forged token, invalid delegation, prompt injection, and tightly scoped credentials.","textChars":132,"textLines":1,"bbox":[116,436,980,54]}
+{"kind":"shape","id":"sh/ulwval87","slide":5,"bbox":[820,74,310,88]}
+{"kind":"textbox","id":"sh/j6tovaho","slide":5,"text":"12 passing tests","textPreview":"12 passing tests","textChars":16,"textLines":1,"bbox":[852,100,250,36]}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":5,"text":"Airline Check-In Outage Demo  |  5/6","textPreview":"Airline Check-In Outage Demo  |  5/6","textChars":36,"textLines":1,"bbox":[64,670,420,24]}
+{"kind":"notes","id":"nt/7w5n8w","slide":5,"text":""}
+{"kind":"slide","id":"sl/1ngca2","slide":6,"title":"AGENT PASSPORT","textShapes":10}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":6,"text":"AGENT PASSPORT","textPreview":"AGENT PASSPORT","textChars":14,"textLines":1,"bbox":[64,46,320,28]}
+{"kind":"textbox","id":"sh/j6tovaho","slide":6,"text":"Current status and handoff","textPreview":"Current status and handoff","textChars":26,"textLines":1,"bbox":[64,82,930,82]}
+{"kind":"shape","id":"sh/ulwval87","slide":6,"bbox":[64,172,190,4]}
+{"kind":"shape","id":"sh/1kre1w7m","slide":6,"bbox":[80,218,10,10]}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":6,"text":"Tester approval gate iterated through security blockers until fixes were covered by tests.","textPreview":"Tester approval gate iterated through security blockers until fixes were covered by tests.","textChars":90,"textLines":1,"bbox":[104,210,650,54]}
+{"kind":"shape","id":"sh/ji5snelo","slide":6,"bbox":[80,300,10,10]}
+{"kind":"textbox","id":"sh/uxc3ylc7","slide":6,"text":"Use-case expert approved the judge-facing story, richer incident facts, presenter mode, and trust-layer lane.","textPreview":"Use-case expert approved the judge-facing story, richer incident facts, presenter mode, and trust-layer lane.","textChars":109,"textLines":1,"bbox":[104,292,650,54]}
+{"kind":"shape","id":"sh/1w7mp0bi","slide":6,"bbox":[80,382,10,10]}
+{"kind":"textbox","id":"sh/8bat47y1","slide":6,"text":"`npm run verify` passes: Vitest plus production Vite build.","textPreview":"`npm run verify` passes: Vitest plus production Vite build.","textChars":59,"textLines":1,"bbox":[104,374,650,54]}
+{"kind":"shape","id":"sh/ytsvu9kn","slide":6,"bbox":[80,464,10,10]}
+{"kind":"textbox","id":"sh/neloj2t8","slide":6,"text":"Remaining production gaps are explicit: real JWT signing, persistent audit storage, and real 1Password/Vault integration.","textPreview":"Remaining production gaps are explicit: real JWT signing, persistent audit storage, and real 1Password/Vault integration.","textChars":121,"textLines":1,"bbox":[104,456,650,54]}
+{"kind":"shape","id":"sh/czed8v6p","slide":6,"bbox":[830,210,300,260]}
+{"kind":"textbox","id":"sh/5kb6xkf6","slide":6,"text":"Run locally","textPreview":"Run locally","textChars":11,"textLines":1,"bbox":[864,244,230,34]}
+{"kind":"textbox","id":"sh/u54zidon","slide":6,"text":"npm install\nnpm run dev\n\nOptional API:\nnpm run api","textPreview":"npm install | npm run dev |  | Optional API: | npm run api","textChars":50,"textLines":5,"bbox":[864,306,230,130]}
+{"kind":"textbox","id":"sh/nqxs72x4","slide":6,"text":"Open http://127.0.0.1:5173/","textPreview":"Open http://127.0.0.1:5173/","textChars":27,"textLines":1,"bbox":[770,540,420,40]}
+{"kind":"textbox","id":"sh/cbulwval","slide":6,"text":"Airline Check-In Outage Demo  |  6/6","textPreview":"Airline Check-In Outage Demo  |  6/6","textChars":36,"textLines":1,"bbox":[64,670,420,24]}
+{"kind":"notes","id":"nt/1ngca2","slide":6,"text":""}
